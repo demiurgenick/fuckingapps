@@ -1,0 +1,19 @@
+@import "_headAnim.scss";
+
+.top-block {
+    .top-block_content {
+        color: #fff;
+        margin-top: 285px;
+        padding-bottom: 250px;
+        p.top-h {
+            font-size: 70px;
+            font-weight: normal;
+//            animation: shape 1s;
+            
+            
+        }
+        p {
+            font-size: 18px;
+        }
+    }
+}
